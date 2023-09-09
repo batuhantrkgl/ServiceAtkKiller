@@ -1,0 +1,7 @@
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkKiller\ServiceAtkKiller\bin\Debug\ServiceAtkKiller.exe.config
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkKiller\ServiceAtkKiller\bin\Debug\ServiceAtkKiller.exe
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkKiller\ServiceAtkKiller\bin\Debug\ServiceAtkKiller.pdb
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkKiller\ServiceAtkKiller\obj\Debug\ServiceAtkKiller.csproj.AssemblyReference.cache
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkKiller\ServiceAtkKiller\obj\Debug\ServiceAtkKiller.csproj.CoreCompileInputs.cache
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkKiller\ServiceAtkKiller\obj\Debug\ServiceAtkKiller.exe
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkKiller\ServiceAtkKiller\obj\Debug\ServiceAtkKiller.pdb
