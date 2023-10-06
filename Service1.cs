@@ -41,7 +41,7 @@ namespace ServiceAtkKiller
                 if (File.Exists(killTxtPath))
                 {
                     EventLog.WriteEntry("USB Watcher Hizmeti", "Kill USBsi takıldı");
-                    RunTaskKill("serviseatk.exe");
+                    RunTaskKill("FatihProjesi.exe");
                 }
             }
         }
