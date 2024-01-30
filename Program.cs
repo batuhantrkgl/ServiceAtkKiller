@@ -17,7 +17,7 @@ namespace ServiceAtkKiller
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new Service1()
+                new USBWatcherSerivceOne()
             };
             ServiceBase.Run(ServicesToRun);
         }

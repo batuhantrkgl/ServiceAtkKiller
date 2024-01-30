@@ -1,6 +1,6 @@
 ﻿namespace ServiceAtkKiller
 {
-    partial class Service1
+    partial class USBWatcherSerivceOne
     {
         /// <summary> 
         ///Gerekli tasarımcı değişkeni.

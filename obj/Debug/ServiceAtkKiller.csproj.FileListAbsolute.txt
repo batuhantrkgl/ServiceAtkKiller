@@ -5,3 +5,10 @@ C:\Users\Batuhantrkgl\source\repos\ServiceAtkKiller\ServiceAtkKiller\obj\Debug\S
 C:\Users\Batuhantrkgl\source\repos\ServiceAtkKiller\ServiceAtkKiller\obj\Debug\ServiceAtkKiller.csproj.CoreCompileInputs.cache
 C:\Users\Batuhantrkgl\source\repos\ServiceAtkKiller\ServiceAtkKiller\obj\Debug\ServiceAtkKiller.exe
 C:\Users\Batuhantrkgl\source\repos\ServiceAtkKiller\ServiceAtkKiller\obj\Debug\ServiceAtkKiller.pdb
+C:\Users\Batuhantrkgl\Source\Repos\ServiceAtkKiller\bin\Debug\ServiceAtkKiller.exe.config
+C:\Users\Batuhantrkgl\Source\Repos\ServiceAtkKiller\bin\Debug\ServiceAtkKiller.exe
+C:\Users\Batuhantrkgl\Source\Repos\ServiceAtkKiller\bin\Debug\ServiceAtkKiller.pdb
+C:\Users\Batuhantrkgl\Source\Repos\ServiceAtkKiller\obj\Debug\ServiceAtkKiller.csproj.AssemblyReference.cache
+C:\Users\Batuhantrkgl\Source\Repos\ServiceAtkKiller\obj\Debug\ServiceAtkKiller.csproj.CoreCompileInputs.cache
+C:\Users\Batuhantrkgl\Source\Repos\ServiceAtkKiller\obj\Debug\ServiceAtkKiller.exe
+C:\Users\Batuhantrkgl\Source\Repos\ServiceAtkKiller\obj\Debug\ServiceAtkKiller.pdb
